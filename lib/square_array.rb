@@ -4,3 +4,5 @@ def square_array(array)
     array[i] = array[i] ** 2
     i +=
   end
+  return array
+end
